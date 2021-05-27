@@ -6,6 +6,8 @@ var today = moment();
 $("#currentDay").text(today.format("dddd MMM Do"));
 
 
+// need to add conditional off of moment function to change the color of time blocks to indicate before, after, or current hour
+
 
 
 
